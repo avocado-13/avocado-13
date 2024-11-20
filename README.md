@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to My GitHub Profile!
 
-I am [Your Name], a passionate **Computer Engineer** 🚀 with an interest in **Neuroscience** 🧠 and **Artificial Intelligence** 🤖.  
+I am Sihyeon Park, a passionate **Computer Engineer** 🚀 with an interest in **Neuroscience** 🧠 and **Artificial Intelligence** 🤖.  
 Currently exploring innovative solutions at the intersection of **technology** and **biology**.
 
 ---
